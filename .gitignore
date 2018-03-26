@@ -5,3 +5,7 @@ package_beforeWebPack.json
 package-lock.json
 d_expensify)
 d_expensify).pub
+public/bundle.js
+public/bundle.js.map
+public/styles.css
+public/styles.css.map
