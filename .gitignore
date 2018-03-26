@@ -1,0 +1,5 @@
+node_modules/
+.history/
+.vscode/
+package_beforeWebPack.json
+package-lock.json
