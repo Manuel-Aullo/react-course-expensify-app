@@ -15,11 +15,11 @@ exports[`Should render ExpenseListItem 1`] = `
   <ul>
     <li>
       Amount: 
-      1000
+      $10.0
     </li>
     <li>
       Date created: 
-      -345600000
+      28/12/1969
     </li>
   </ul>
 </div>
