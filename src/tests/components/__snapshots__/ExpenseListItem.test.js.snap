@@ -19,7 +19,7 @@ exports[`Should render ExpenseListItem 1`] = `
     </li>
     <li>
       Date created: 
-      28/12/1969
+      December 28th 1969
     </li>
   </ul>
 </div>
